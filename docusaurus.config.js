@@ -18,7 +18,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Olexii-lab3/',
 
-  // GitHub pages deployment config.
+  // GitHub pages deployment 
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Pohyba Olexii', // Usually your GitHub org/user name.
   projectName: 'Olexii-lab3', // Usually your repo name.
@@ -26,7 +26,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
+  // Even if you don't use internationlization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans"
   i18n: {
