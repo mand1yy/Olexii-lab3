@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment 
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Pohyba Olexii', // Usually your GitHub org/user name.
-  projectName: 'Olexii-lab3', // Usually your repo name.
+  projectName: 'Olexii-lab3', 
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
