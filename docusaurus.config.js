@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Pogiba',
+  title: 'Pogiba olexii lab',
   tagline: 'hello :)',
   favicon: 'img/favicon.ico',
 
